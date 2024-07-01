@@ -17,3 +17,7 @@ Welcome to the Grocery List App! This is a simple application built using React,
 - **Props & Prop Drilling:** Passed data between components using props.
 - **Controlled Component Inputs:** Managed form inputs as controlled components.
 - **useEffect Hook:** Implemented to fetch or update data in response to component lifecycle events.
+
+## Credits
+- made by Shivansh Agrawal
+- inspired by Dave Gray React tutorials
