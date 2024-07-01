@@ -1,3 +1,9 @@
+# What did we learn?
+Chapter 7: Lists & Keys
+Chapter 8: Props & Prop Drilling
+Chapter 9: Controlled Component Inputs
+Chapter 11: useEffect Hook
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
